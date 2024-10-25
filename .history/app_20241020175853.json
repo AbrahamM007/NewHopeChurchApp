@@ -3,7 +3,7 @@
     "name": "NewHopeChurchApp",
     "slug": "NewHopeChurchApp",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#dff0c2"
     }
